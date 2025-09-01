@@ -1,38 +1,28 @@
-Hi there, I'm Turner Smith 👋
+Hi, I'm Turner Smith 👋
 
-I'm a first-year Computer Engineering student at [Alma College](https://www.alma.edu/) with an interest in python for AI/ML engineering. I'm actively working on building my skills and am excited to apply my knowledge to real-world projects.
+I'm a first-year Computer Engineering student at Alma College with a passion for **AI/ML engineering**. I'm actively building my skills in Python and exploring real-world applications of machine learning.
 
-I'm using this GitHub profile as a portfolio to document my learning journey, showcase my academic projects, and contribute to the open-source community.
+I use this GitHub profile to document my learning journey, showcase my academic projects, and contribute to the open-source community.
 
-🔭 What I'm currently working on
+### 🔭 What I'm Currently Working On
 
-    Python Crash Course 3rd edition by Eric Matthes
-🌱 I'm currently learning
+* **Python Crash Course 3rd Edition by Eric Matthes:** Applying core Python concepts to various exercises and small projects from the book, including data visualization and web development basics.
 
-    Introductory Python
-    
-    Linux and the command line
+### 🌱 I'm Currently Learning
 
-🛠️ My Skills
+* **Introductory Python:** Focusing on object-oriented programming, data structures, and algorithms.
+* **Linux and the Command Line:** Building a foundational understanding of system administration and command-line tools for development.
 
-Languages
+### 🛠️ Skills & Tools
 
-    Python
+* **Languages:** Python
+* **Tools:** Git, GitHub, JetBrains IDEs (PyCharm), VS Code
 
-Tools
+---
 
-    Github
+### 📫 Let's Connect
 
-    Git
+* **LinkedIn:** [https://www.linkedin.com/in/turner-smith-a49a33381/]
+* **Email:** smith1ta@alma.edu
 
-    Jetbrains IDE's
-
-    Vscode
-📫 Let's Connect
-
-[My LinkedIn](https://www.linkedin.com/in/turner-smith-a49a33381/)
-    
-My Email: smith1ta@alma.edu
-
-
-Feel free to explore my (future)repositories and reach out if you have any questions or collaboration ideas!
+Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.

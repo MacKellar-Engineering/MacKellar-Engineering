@@ -24,4 +24,5 @@ I use this GitHub profile to document my learning journey, showcase my academic 
 
 * [**LinkedIn**](https://www.linkedin.com/in/turner-smith-a49a33381/)
 * [**Email Me!**](mailto:smith1ta@alma.edu)
+
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.
